@@ -1,2 +1,4 @@
 # lab
-qwertyui
+qwertyuiop[]
+asdfghjkl;'
+zxcvbnm,./
